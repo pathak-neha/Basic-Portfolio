@@ -22,7 +22,7 @@
     font-weight: bold;
     text-align: center;
     text-align: middle;
-    background-color: #4aaaa5;
+    background-color: yellow;
     color: #ffffff;
     width: 20%;
     height: 47px;
@@ -63,7 +63,20 @@ hr {
     background: #dddddd;
 }
 
+.headshot {
+    float: left;
+    width: 200px;
+    display: block;
+    clear: both;
+    margin-right: 20px;
+}
+
 a:link {
+    color: #777777;
+    text-decoration: none;
+}
+
+a:visited {
     color: #777777;
     text-decoration: none;
 }
