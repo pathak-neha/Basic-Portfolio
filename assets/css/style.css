@@ -22,7 +22,7 @@
     font-weight: bold;
     text-align: center;
     text-align: middle;
-    background-color: yellow;
+    background-color: #4aaaa5;
     color: #ffffff;
     width: 20%;
     height: 47px;
@@ -109,6 +109,127 @@ form {
     font-size: 18px;
     color: #777777;
     line-height: 24px;
+}
+
+/* portfolio page styling */
+
+.row1{
+    position: relative;
+    float: left;
+    width: 900px;
+    height: 150px;
+    overflow: hidden;
+    background-color: #ffffff;
+}
+
+
+.img1{
+    width: 200px;
+    height: 150px;  
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.textbox1{
+    width: 200px;
+    height: 25px;
+    position: absolute;
+    bottom: 15%;
+    background-color: #4aaaa5;
+    color: #fff;
+    text-align: center;
+}
+
+.img2{
+    width: 200px;
+    height: 150px;  
+    position: absolute;
+    left: 25.71%;
+}
+
+.textbox2{
+    width: 200px;
+    height: 25px;
+    position: absolute;
+    bottom: 15%;
+    background-color: #4aaaa5;
+    color: #fff;
+    text-align: center;
+    left: 25.71%;
+}
+
+.row2{
+    position: relative;
+    margin-top: 20px;
+    float: left;
+    width: 900px;
+    height: 150px;
+    overflow: hidden;
+    background-color: #ffffff;
+}
+
+.img3{
+    width: 200px;
+    height: 150px;  
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.textbox3{
+    width: 200px;
+    height: 25px;
+    position: absolute;
+    bottom: 15%;
+    background-color: #4aaaa5;
+    color: #fff;
+    text-align: center;
+}
+
+.img4{
+    width: 200px;
+    height: 150px;  
+    position: absolute;
+    left: 25.71%;
+}
+
+
+.textbox4{
+    width: 200px;
+    height: 25px;
+    position: absolute;
+    bottom: 15%;
+    background-color: #4aaaa5;
+    color: #fff;
+    text-align: center;
+    left:25.71%;
+}
+
+.row3{
+    position: relative;
+    margin-top: 20px;
+    float: left;  
+    width: 900px;
+    height: 150px; 
+    overflow: hidden;
+    background-color: #ffffff;
+}
+
+.img5{
+    width: 200px;
+    height: 150px;  
+    position: absolute;
+}
+
+.textbox5{
+    width: 200px;
+    height: 25px;
+    position: absolute;
+    bottom: 15%;
+    background-color: #4aaaa5;
+    color: #fff;
+    text-align: center;
 }
 
 /* footer styling */
